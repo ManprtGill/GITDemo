@@ -7,6 +7,8 @@ public class Program {
 	public void studentlogin(){
 		
 		System.out.println("Login into student account");
+		System.out.println("Login into student2 account");
+		System.out.println("Login into student3 account");
 	}
 	@Test(priority=0)
 public void studentlogout(){
