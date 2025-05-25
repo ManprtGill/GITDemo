@@ -14,5 +14,7 @@ public class Program {
 public void studentlogout(){
 		
 		System.out.println("Logout from student account");
+		System.out.println("Logout from student2 account");
+		System.out.println("Logout from student3 account");
 	}
 }
