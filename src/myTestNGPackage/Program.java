@@ -17,4 +17,11 @@ public void studentlogout(){
 		System.out.println("Logout from student2 account");
 		System.out.println("Logout from student3 account");
 	}
+	@Test
+public void studentlogout2(){
+		
+		System.out.println("Logout from student4 account");
+		System.out.println("Logout from student5 account");
+		System.out.println("Logout from student6 account");
+	}
 }

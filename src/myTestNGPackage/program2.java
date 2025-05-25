@@ -24,6 +24,14 @@ public class program2 {
 	
 	 System.out.println("After class");
 	}
+	@Test
+	public void simplefunction() {
+		System.out.println("simple function");
+	}
+	@Test
+	public void complexfunction() {
+		System.out.println("complex function");
+	}
 	@BeforeTest
 	public void beforeTest() {
 	
